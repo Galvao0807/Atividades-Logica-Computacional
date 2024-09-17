@@ -1,9 +1,9 @@
 programa {
   funcao inicio() {
-     //Nome: Rafael Galvão Brito 
-    //Serie: 2º ano F
+     //Nome: Isabel GalvÃ£o Brito 
+    //Serie: 2Âº ano F
     //Meu primeiro programa em portugol
-    escreva("Olá Mundo")
+    escreva("OlÃ¡ Mundo")
     escreva("Sou um mestre de RPG")
     
   }
